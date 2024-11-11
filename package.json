@@ -1,0 +1,17 @@
+{
+  "name": "cypress-debugger-example",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "cypress run --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "20.3.1",
+    "cypress": "12.17.2",
+    "cypress-debugger": "^1.0.9",
+    "typescript": "^5.6.3"
+  }
+}

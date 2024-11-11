@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "types": ["cypress", "node"],
+    "baseUrl": "./",
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["**/*.ts", "**/*.js"]
+}
